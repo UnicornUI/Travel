@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Travel</string>
+    <string name="str_welcome">Explorer the \n world with us</string>
+    <string name="str_welcome_hint">lorem ipsum dolor sit amet consectetur \n adipiscing elit, sed do eiusmod tempor.</string>
+    <string name="str_location">Location\n</string>
+    <string name="str_search_hint">Street, Address, City ...</string>
+    <string name="str_popular">Popular Destination</string>
+    <string name="str_see_all">See All</string>
+    <string name="str_recommend">Recommend</string>
+    <string name="str_home">Home</string>
+    <string name="str_explorer">Explorer</string>
+    <string name="str_bookmark">Bookmark</string>
+    <string name="str_profile">Profile</string>
+    <string name="str_description">Description</string>
+    <string name="str_add_to_cart">Add to cart</string>
+    <string name="str_ticket_detail">Ticket Detail</string>
+</resources>
